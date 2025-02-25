@@ -32,5 +32,9 @@ TetrisGame is a project where I developed the classic Tetris game. This project 
 - **Arrow Keys**: Move the blocks left, right, and rotate them.
 - **Down Arrow Key**: Makes the blocks fall faster
 
-https://github.com/user-attachments/assets/f8582546-111d-41d5-b08e-a59dbeb904f6
+
+
+
+
+https://github.com/user-attachments/assets/d0993dd9-d269-4c36-ba3f-59aeac965ddb
 
